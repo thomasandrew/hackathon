@@ -1,0 +1,30 @@
+{
+    "name": "Empreeendedor NiteroiEnse",
+    "description": "",
+    "short_name": "Empreeendedor NiteroiEnse",
+    "display": "standalone",
+    "start_url": "index.php",
+    "scope": "/",
+    "icons": [{
+            "src": "/assets/img/logo/logo1.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/img/logo/logo1.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/img/logo/logo1.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/img/logo/logo1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+
+    ]
+}
